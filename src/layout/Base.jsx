@@ -1,4 +1,4 @@
-import logo from '../assets/logo.svg';
+import logo from '../logo.svg';
 import {Link} from "react-router-dom";
 import {useContext} from "react";
 import {ThemeContext} from "../context/Theme";
